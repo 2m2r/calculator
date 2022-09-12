@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FCFCFC</color>
+
+    <!-- Function Buttons TXT  -->
+
+    <color name="fun_pressedTrue">#E1E0E0</color>
+    <color name="funButtonsBG">#F5F5F5</color>
+    <color name="funButtonsTXT">#007DFE</color>
+    <color name="funButtonsST">#D7D7D7</color>
+    <color name="sinButtonTXT">#878787</color>
+    <!-- Numbers Buttons   -->
+
+    <color name="numButtonsBG">#FCFCFC</color>
+    <color name="numButtonsTXT">#464646</color>
+    <color name="numButtonsST">#D7D7D7</color>
+    <color name="num_pressedTrue">#E1E0E0</color>
+
+    <!-- EqualButtons -->
+
+    <color name="eqButtonsBG">#007DFE</color>
+    <color name="eqButtonsTXT">#F2FFFF</color>
+    <color name="eqButtonsST">#D7D7D7</color>
+    <color name="eq_pressedTrue">#046EDC</color>
+
+    <!-- TextColor Result-->
+
+    <color name="resultColor">#A1A1A1</color>
+
+    <!-- TextColor Error-->
+
+    <color name="errorColor">#A1A1A1</color>
+
+    <!-- TextColor Error-->
+
+    <color name="inputColor">#464646</color>
+
+
+</resources>
